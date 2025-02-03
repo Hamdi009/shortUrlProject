@@ -9,15 +9,6 @@ This project provides a **URL shortener** service that generates short URLs and 
 - **Backend**: Built using Node.js, Express, and MongoDB.
 - **Frontend**: Built using React and Bootstrap for a clean, responsive interface.
 
-## Table of Contents
-
-1. [Project Setup](#project-setup)
-   - [Backend Setup](#backend-setup)
-   - [Frontend Setup](#frontend-setup)
-2. [API Documentation](#api-documentation)
-3. [Usage](#usage)
-4. [Technologies](#technologies)
-5. [License](#license)
 
 ## Project Setup
 
